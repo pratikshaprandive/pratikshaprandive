@@ -6,7 +6,7 @@
 
 - 🎓 Currently Working in Cognizant Technology Solution.
 - ✈️ Love to visit ancient places and enjoy traveling.
-- 💻 I use daily: * .java, .py, .sql*
+- 💻 I use daily: *.py, .sql*
 - 🎵 Dancing and Painting = Sukoon , I'm learning classical dance form Bharatnatyam, love drawing Mandala and doodling.
 - 💫 Dream to be visit places and meet people.
 
@@ -14,9 +14,10 @@
 
 - 💻 Programming Languages: Python, Java
 - 📊 Advance Microsoft Excel
-- 🗄️ Databases: SQL(Microsoft SQL, MySQL).
+- 🗄️ Databases: SQL(Microsoft SQL, MySQL, Oracle SQL).
 - ⚡Visualization tool : Microsoft PowerBI, Tableau
 - 🕸️ In Addition: Statistics
+- Familiar: Snowflake
 
 ## My Projects 
 
@@ -24,9 +25,11 @@ Here are a few notable projects I've worked on:
 
 1. **HR Analytics** 🌟
 
-2. **SuperStore Sales Analysis** 🎉
+2. **Supply Chain Analytics** 🎉
 
 3. **Maven Market Report** 💪
+
+4. **Healthcare Analysis**
 
 Feel free to explore my repositories to get a better understanding of the projects I've worked on.
 
@@ -35,7 +38,7 @@ Feel free to explore my repositories to get a better understanding of the projec
 If you have any questions, collaboration opportunities, or just want to say hi, feel free to reach out to me. You can connect with me via:
 
 - 📧 randivepratiksha01@gmail.com - Drop me an email, and I'll get back to you as soon as possible.
-- 🌐 LinkedIn -  - Let's connect on LinkedIn for professional networking and discussions.
+- 🌐 https://www.linkedin.com/in/pratiksha-dataanalyst -  - Let's connect on LinkedIn for professional networking and discussions.
 
 Thank you for visiting my profile, and I look forward to connecting with you! 😊
 
